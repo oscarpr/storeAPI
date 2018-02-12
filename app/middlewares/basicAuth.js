@@ -7,5 +7,5 @@ const validPass = 'my_password';
 module.exports = function (req) {
     var credentials = auth(req);
 
-    return credentials.name === validUserName && credentials.pass === validPass;
+    return credentials && credentials.name === validUserName && credentials.pass === validPass;
 }
