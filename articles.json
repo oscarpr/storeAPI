@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "description": "News Shoes",
+        "name": "Shoes 2.0",
+        "price": "20000",
+        "total_in_shelf": "20",
+        "total_in_vault": "40",
+        "store_id": "1"
+    },
+    {
+        "id": 2,
+        "description": "The best pants",
+        "name": "Blue pants",
+        "price": "15000",
+        "total_in_shelf": "10",
+        "total_in_vault": "70",
+        "store_id": "1"
+    },
+    {
+        "id": 3,
+        "description": "The most green boxers",
+        "name": "Green boxers",
+        "price": "1500",
+        "total_in_shelf": "70",
+        "total_in_vault": "81",
+        "store_id": "2"
+    },
+    {
+        "id": 4,
+        "description": "The bigest panties",
+        "name": "Superduper panties",
+        "price": "9000",
+        "total_in_shelf": "200",
+        "total_in_vault": "1500",
+        "store_id": "2"
+    }
+]

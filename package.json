@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Oscar Pulido",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.0",
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "^5.0.4",
+    "mongoose-auto-increment": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}

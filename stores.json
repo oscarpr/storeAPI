@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Super Store",
+        "address": "NY"
+    },
+    {
+        "id": 2,
+        "name": "Super Panties",
+        "address": "Medellin"
+    }
+]
